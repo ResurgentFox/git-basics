@@ -6,3 +6,6 @@ const person = {
         console.log('Hi there!');
     },
 };
+
+alert('Hello, Git!');
+console.log(alert);
