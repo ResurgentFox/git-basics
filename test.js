@@ -2,7 +2,7 @@
 const person = {
     name: 'Anna',
     age: 24,
-    sayHello: function () {
+    sayHello: () => {
         console.log('Hi there!');
     },
 };
